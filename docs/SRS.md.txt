@@ -1,0 +1,32 @@
+# Read & Mark
+
+## Objective
+
+Read & Mark is a web-based application that enables users to manage their digital reading experience by highlighting important text, creating notes, bookmarking sections, organizing books, and tracking reading progress.
+
+## Users
+
+- Student
+- Teacher
+- Reader
+
+## Technologies
+
+Frontend:
+- React
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+Backend:
+- Java
+- Spring Boot
+- Hibernate
+
+Database:
+- MySQL
+
+Version Control:
+- Git
+- GitHub
